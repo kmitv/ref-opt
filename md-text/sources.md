@@ -1,0 +1,5 @@
+- Holt, Jane & Kreußer, Jannette & Herritsch, Alfred & Watson, Matthew. (2018). Numerical modelling of a steam methane reformer. ANZIAM Journal. 59. 112. 10.21914/anziamj.v59i0.12635. 
+- Shahkarami, Pirouz & Fatemi, Shohreh. (2015). Mathematical Modeling and Optimization of Combined Steam and Dry Reforming of Methane Process in Catalytic Fluidized Bed Membrane Reactor. Chemical Engineering Communications. 202. 10.1080/00986445.2013.867257. 
+- Chen, I-Tso. "Steam reforming of methane." *Retrieved June* 7 (2010): 2014.
+- Gerard B. Hawkins - Steam Reforming - (ATM) Approach to Equilibrium - https://www.slideshare.net/GerardBHawkins/steam-reforming-atm-approach-to-equilibrium (03.11.2018)
+- Jeffrey Kantor - Introduction to Chemical Engineering Analysis (jeff@nd.edu) - https://github.com/jckantor/CBE20255 - (03.11.2018)
